@@ -1,0 +1,7 @@
+{
+	"wolfScript":[
+		{ "AIId": 0, "Second": 5, "Condition1": 999999, "Action1": { "action": 11, "arg1": "1" }, "NextId1": 1, "Condition2": -1 },
+		{ "AIId": 1, "Second": 4, "Condition1": 1, "Action1": { "action": 27, "arg1": "1111111111111" }, "NextId1": 2, "Condition2": -1, "Action2": { "action": 10, "arg1": "1" }, "NextId2": -1 },
+		{ "AIId": 2, "Second": 5, "Condition1": 1, "Action1": { "action": 2, "arg1": "1" }, "NextId1": -1, "Condition2": -1, "NextId2": -1 }
+	]
+}

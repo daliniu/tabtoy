@@ -1,0 +1,32 @@
+{
+	"wolfAction":[
+		{ "ActionId": 0, "Function": "CreateRoom", "ArgName": "RoomManager" },
+		{ "ActionId": 1, "Function": "JoinRoom", "ArgName": "RoomManager" },
+		{ "ActionId": 2, "Function": "LeaveRoom", "ArgName": "RoomManager" },
+		{ "ActionId": 3, "Function": "MatchGame", "ArgName": "RoomManager" },
+		{ "ActionId": 4, "Function": "QuickMatch", "ArgName": "RoomManager" },
+		{ "ActionId": 5, "Function": "RoomPrepare", "ArgName": "RoomManager" },
+		{ "ActionId": 6, "Function": "RoomWitness", "ArgName": "RoomManager" },
+		{ "ActionId": 7, "Function": "RoomSitDown", "ArgName": "RoomManager" },
+		{ "ActionId": 8, "Function": "RoomSitDown", "ArgName": "RoomManager" },
+		{ "ActionId": 9, "Function": "RoomSitDown", "ArgName": "RoomManager" },
+		{ "ActionId": 10, "Function": "RoomKick", "ArgName": "RoomManager" },
+		{ "ActionId": 11, "Function": "StartGame", "ArgName": "RoomManager" },
+		{ "ActionId": 12, "Function": "Protect", "ArgName": "RoomManager" },
+		{ "ActionId": 13, "Function": "WolfKillPlayer", "ArgName": "RoomManager" },
+		{ "ActionId": 14, "Function": "SeerCheck", "ArgName": "RoomManager" },
+		{ "ActionId": 15, "Function": "WitchSavePlayer", "ArgName": "RoomManager" },
+		{ "ActionId": 16, "Function": "WitchPosionPlayer", "ArgName": "RoomManager" },
+		{ "ActionId": 17, "Function": "Vote", "ArgName": "RoomManager" },
+		{ "ActionId": 18, "Function": "ParticipateElection", "ArgName": "RoomManager" },
+		{ "ActionId": 19, "Function": "ElectionGiveUp", "ArgName": "RoomManager" },
+		{ "ActionId": 20, "Function": "CaptainVote", "ArgName": "RoomManager" },
+		{ "ActionId": 21, "Function": "Hunt", "ArgName": "RoomManager" },
+		{ "ActionId": 22, "Function": "WerewolfSuicide", "ArgName": "RoomManager" },
+		{ "ActionId": 23, "Function": "PenguinFreeze", "ArgName": "RoomManager" },
+		{ "ActionId": 24, "Function": "CrowGossip", "ArgName": "RoomManager" },
+		{ "ActionId": 25, "Function": "FoxFindOutPlayer", "ArgName": "RoomManager" },
+		{ "ActionId": 26, "Function": "BlackWolfKingHunt", "ArgName": "RoomManager" },
+		{ "ActionId": 27, "Function": "CheckRoomStatus", "ArgName": "RoomManager" }
+	]
+}
