@@ -1,0 +1,8 @@
+{
+	"Globals":[
+		{ "AIId": 0, "Second": 5, "Condition1": 0, "Action1": 0, "NextId1": 2, "Condition2": 1, "Action2": 0, "NextId2": 2 },
+		{ "AIId": 1, "Second": 4, "Condition1": 1, "Action1": 1, "NextId1": 3, "Condition2": 0, "Action2": 1, "NextId2": 3 },
+		{ "AIId": 2, "Second": 5, "Condition1": 0, "Action1": 0, "NextId1": 4, "Condition2": 1, "Action2": 0, "NextId2": 4 },
+		{ "AIId": 3, "Second": 1, "Condition1": 1, "Action1": 1, "NextId1": 1, "Condition2": 0, "Action2": 1, "NextId2": 1 }
+	]
+}
