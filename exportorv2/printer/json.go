@@ -28,8 +28,8 @@ func (self *jsonPrinter) Run(g *Globals) *Stream {
 	bf := NewStream()
 	bf.Printf("{\n")
 
-	bf.Printf("	\"Tool\": \"github.com/davyxu/tabtoy\",\n")
-	bf.Printf("	\"Version\": \"%s\",\n", g.Version)
+	//bf.Printf("	\"Tool\": \"github.com/davyxu/tabtoy\",\n")
+	//bf.Printf("	\"Version\": \"%s\",\n", g.Version)
 
 	for tabIndex, tab := range g.Tables {
 
